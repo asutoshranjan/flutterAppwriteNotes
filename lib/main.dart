@@ -1,4 +1,5 @@
 import 'package:appwrite_flutter_notes/screens/HomePage.dart';
+import 'package:appwrite_flutter_notes/screens/LoadingScreen.dart';
 import 'package:flutter/material.dart';
 
 import 'package:appwrite/appwrite.dart';
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
-      home: const HomePage(),
+      home: const LoadingScreen(),
     );
   }
 }
