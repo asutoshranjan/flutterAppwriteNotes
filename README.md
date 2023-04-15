@@ -2,6 +2,8 @@
 
 This repository is for a three part YouTube video series on creating a to-do app using Appwrite and Flutter. 
 
+![To-Do App series with Appwrite and Flutter](https://user-images.githubusercontent.com/81508078/232245267-c3afccbe-eb77-49fc-9b33-8ec3bbac2a4f.png)
+
 
 ## Videos
 
