@@ -1,16 +1,15 @@
-# appwrite_flutter_notes
+# To-Do App using Appwrite and Flutter
 
-A fun notes app with appwrite and flutter
+This repository is for a three part YouTube video series on creating a to-do app using Appwrite and Flutter. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Videos
 
-A few resources to get you started if this is your first Flutter project:
+- [Build your first app with Flutter and Appwrite](https://youtu.be/CJL-03CgidE)
+- [User authentication with Appwrite in Flutter App](https://youtu.be/WihQ1DIoJYg)
+- [Making a To-Do App using Appwrite and Flutter](https://youtu.be/_ihKZOn3C18)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Overview
+
+In this series, we will make a To-Do App using Appwrite and Flutter. Our To-Do App will have all the core to-do functionalities. It will have user authentication. The user can view, add and delete tasks, mark them as done, delete all tasks at once, and view unfinished and completed tasks separately. This video assumes that you are a beginner and will contain the necessary explanation. 
